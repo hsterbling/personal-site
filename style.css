@@ -133,6 +133,10 @@ section {
     margin-bottom: 0;
 }
 
+.contact-info .line-break {
+    margin-bottom: 18px;
+}
+
 footer {
     position: absolute;
     bottom: -50px;
