@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://traduceri-ro-uebersetzer.de/index.html</loc>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="de"
+               href="https://traduceri-ro-uebersetzer.de/index.html"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="ro"
+               href="https://traduceri-ro-uebersetzer.de/romanian.html"/>
+  </url>
+  <url>
+    <loc>https://traduceri-ro-uebersetzer.de/romanian.html</loc>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="de"
+               href="https://traduceri-ro-uebersetzer.de/index.html"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="ro"
+               href="https://traduceri-ro-uebersetzer.de/romanian.html"/>
+  </url>
+</urlset>
