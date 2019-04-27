@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://traduceri-ro-uebersetzer.de/sitemap.xml
